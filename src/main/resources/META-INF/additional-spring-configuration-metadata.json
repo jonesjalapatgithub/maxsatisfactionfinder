@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "filepath",
+    "type": "java.lang.String",
+    "description": "A description for 'filepath'"
+  },
+  {
+    "name": "filepathdata",
+    "type": "java.lang.String",
+    "description": "A description for 'filepathdata'"
+  }
+]}
